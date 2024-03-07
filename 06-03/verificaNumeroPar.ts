@@ -1,4 +1,4 @@
-function ehPar(numeroPar: number){
+function ehPar(numeroPar: number): boolean{
     if (numeroPar  % 2 === 0) {
         return true;
     } else{
